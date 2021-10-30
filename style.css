@@ -11,7 +11,7 @@ body {
     top: 0px;
     z-index: 10;
     position: fixed;
-        background-color: white;
+    background-color: white;
     margin-top: 0px;
 }
 
@@ -71,4 +71,21 @@ img:hover {
 h2 {
     font-family: 'La Belle Aurore';
     color: darkolivegreen;
+}
+
+a {
+    text-decoration: underline;
+    color: darkcyan;
+    font-family: 'La Belle Aurore';
+    font-size: 30px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#line {
+    height: 20px;
+    width: 20px;
+    color: cadetblue;
 }
