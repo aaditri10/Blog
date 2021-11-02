@@ -51,6 +51,8 @@ img {
 
 img:hover {
     transform: scale(0.9);
+    border-width: 3px;
+    border-color: rebeccapurple;
 }
 
 .title {
@@ -75,7 +77,7 @@ h2 {
 
 a {
     text-decoration: underline;
-    color: plum;
+    color: rebeccapurple;
     font-family: 'La Belle Aurore';
     font-size: 30px;
 }
